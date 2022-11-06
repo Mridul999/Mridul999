@@ -4,7 +4,7 @@
 
 I'm currently learning.......
 
-Skills: HTML / CSS/ BOOTSTRAP / TAILWIND CSS / JS / REACT / VUE JS
+Skills: HTML / CSS/ BOOTSTRAP / PSD TO HTML / FIGMA TO HTML / XD TO HTML / TAILWIND CSS / JS / REACT / VUE JS
 
 - 🔭 I’m currently working on Nowhere.... 
 - 🌱 I’m currently learning JavaScript 
